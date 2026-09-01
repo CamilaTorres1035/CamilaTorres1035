@@ -36,4 +36,7 @@
 * ⏱️ **[RateLimiter](https://github.com/CamilaTorres1035/rate-limiter)**  
   Middleware de Rate Limiting ultraligero en **Java nativo** (sin frameworks). Aplica el algoritmo **Token Bucket** con evaluación perezosa, concurrencia *Thread-Safe* (`ReentrantLock`), soporte para proxies y pruebas de carga con **k6**.
 
+* ⚡ **[Energy Hands](https://github.com/CamilaTorres1035/EnergyHands)**  
+  Sistema de interacción gestual en tiempo real en **Python**. Implementa un pipeline desacoplado (*Gesture Engine* y *Particle System*) con lógica de estados tolerante a fallos y procesamiento optimizado con **NumPy** y **MediaPipe**.
+
 ---
