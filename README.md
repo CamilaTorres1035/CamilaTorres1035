@@ -37,7 +37,3 @@
   Middleware de Rate Limiting ultraligero en **Java nativo** (sin frameworks). Aplica el algoritmo **Token Bucket** con evaluación perezosa, concurrencia *Thread-Safe* (`ReentrantLock`), soporte para proxies y pruebas de carga con **k6**.
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CamilaTorres1035&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
